@@ -1,4 +1,4 @@
-# Project Folder for FASSSTER R Plumber Server
+# FASSSTER R Plumber Server
 
 ## Requirements
 
@@ -19,7 +19,7 @@ Rscript runFASSSTERPlumber.R
 Rscript timeseries/0_RunPlumber.R
 ```
 
-# Project Folder for FASSSTER Python Tornado API Server
+# FASSSTER Python Tornado API Server
 
 ## Requirements
 
