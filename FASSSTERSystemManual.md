@@ -55,8 +55,6 @@ python server.py
 
 # FASSSTER COVID-19
 
-FASSSTER COVID-19
-
 FASSSTER COVID-19 is a platform designed to compute and visualize output from the COVID-19 compartmental model designed specifically to capture the transmission behavior of the disease and its effect on the population. As an LGU dashboard, FASSSTER provides a variety of tools used for monitoring COVID-19 at the national, regional, provincial and city/municipal level.
 
 ## Technologies
